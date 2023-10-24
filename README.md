@@ -15,3 +15,4 @@
   </h1>
 </div>
 
+[![An image of @aryancodes1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryancodes1)](https://holopin.io/@aryancodes1)
