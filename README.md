@@ -48,17 +48,22 @@
 ---
 
 ### :fire: My Stats :
-<!--
-<div style="text-align: center;">
+
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=aryan-codes1&theme=shades-of-purple" alt="GitHub Streak" /></a>
-<div/>
--->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryan-codes1&theme=shades-of-purple)](https://git.io/streak-stats)
+<p/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-codes1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan-codes1&show_icons=true&theme=radical)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-codes1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan-codes1&show_icons=true&theme=radical) -->
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-codes1&show_icons=true&theme=nightowl" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-codes1&layout=compact&theme=nightowl&langs_count=8&card_width=320" />
+</a>
+<p/>
+  
 ---
 ### :dizzy: Badge Board :
 
