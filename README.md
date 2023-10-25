@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-#### I am an aspiring Software Developer :wave: from India.
+ I am an aspiring Software Developer :wave: from India.
 - :telescope: I’m studying Computer Science and Engineering and contributing to small projects.
 
 - :seedling: Exploring Data Science and ML with interest as a Python Developer.
@@ -49,8 +49,15 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryan-codes1&theme=shades-of-purple)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-codes1)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=aryan-codes1&theme=shades-of-purple" alt="GitHub Streak" /></a>
+<div/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-codes1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan-codes1&show_icons=true&theme=radical)
+
 ---
 ### :dizzy: Badge Board :
+
 [![An image of @aryancodes1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryancodes1)](https://holopin.io/@aryancodes1)
